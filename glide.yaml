@@ -1,0 +1,6 @@
+package: forecast
+import:
+- package: github.com/mlbright/forecast
+  subpackages:
+  - v2
+- package: github.com/getlantern/systray

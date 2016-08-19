@@ -1,0 +1,10 @@
+hash: 5056d32777089820d3906da033eaf191638770a050a19a783a0dde75594ee642
+updated: 2016-08-19T09:16:10.660252838-04:00
+imports:
+- name: github.com/getlantern/systray
+  version: d4e9a9f70a92790dbb0d1cee3569282d6af0cf31
+- name: github.com/mlbright/forecast
+  version: 781f7259c1b21cb70229a4f8474419900c7fe236
+  subpackages:
+  - v2
+testImports: []
