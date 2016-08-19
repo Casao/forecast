@@ -4,3 +4,4 @@ import:
   subpackages:
   - v2
 - package: github.com/getlantern/systray
+- package: github.com/deckarep/gosx-notifier

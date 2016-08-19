@@ -1,10 +1,30 @@
-hash: 5056d32777089820d3906da033eaf191638770a050a19a783a0dde75594ee642
-updated: 2016-08-19T09:16:10.660252838-04:00
+hash: e0d7e236533e12eeb3a2589a9dec84475c16a7fbf01af6f121f41b4e2a5a4cb9
+updated: 2016-08-19T11:11:19.636730595-04:00
 imports:
+- name: github.com/deckarep/gosx-notifier
+  version: 9daaf8a4715ebe4daf300036644762fe27d3aded
+- name: github.com/getlantern/context
+  version: 624d99b1798d7c5375ea1d3ca4c5b04d58f7c775
+- name: github.com/getlantern/errors
+  version: 2cb9490e9d7173de46312139267791c8115f5e10
+- name: github.com/getlantern/filepersist
+  version: c5f0cd24e7991579ba6f5f1bd20a1ad2c9f06cd4
+- name: github.com/getlantern/golog
+  version: 00277a46b6a621ee8868060f5bd4b0173d452c7b
+- name: github.com/getlantern/hex
+  version: 083fba3033ad473db3dd31c9bb368473d37581a7
+- name: github.com/getlantern/hidden
+  version: d52a649ab33af200943bb599898dbdcfdbc94cb7
+- name: github.com/getlantern/ops
+  version: b70875f5d689a9438bca72aefd7142a2af889b18
+- name: github.com/getlantern/stack
+  version: 02f928aad224fbccd50d66edd776fc9d1e9f2f2b
 - name: github.com/getlantern/systray
   version: d4e9a9f70a92790dbb0d1cee3569282d6af0cf31
 - name: github.com/mlbright/forecast
   version: 781f7259c1b21cb70229a4f8474419900c7fe236
   subpackages:
   - v2
+- name: github.com/oxtoacart/bpool
+  version: 4e1c5567d7c2dd59fa4c7c83d34c2f3528b025d6
 testImports: []
