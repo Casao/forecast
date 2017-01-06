@@ -1,8 +1,10 @@
-hash: e0d7e236533e12eeb3a2589a9dec84475c16a7fbf01af6f121f41b4e2a5a4cb9
-updated: 2016-08-19T11:11:19.636730595-04:00
+hash: 3917dfc4c577386a1e7be39bede06179e3ec51dfa29cff5ace3f83c101577cdd
+updated: 2017-01-06T15:57:10.522113005-05:00
 imports:
 - name: github.com/deckarep/gosx-notifier
   version: 9daaf8a4715ebe4daf300036644762fe27d3aded
+- name: github.com/everdev/mack
+  version: 96eeed7dc841bf70d30bf7d72ead268761b47a11
 - name: github.com/getlantern/context
   version: 624d99b1798d7c5375ea1d3ca4c5b04d58f7c775
 - name: github.com/getlantern/errors
@@ -21,6 +23,10 @@ imports:
   version: 02f928aad224fbccd50d66edd776fc9d1e9f2f2b
 - name: github.com/getlantern/systray
   version: d4e9a9f70a92790dbb0d1cee3569282d6af0cf31
+- name: github.com/mlbright/darksky
+  version: 189917cd2dbc9962e9eafabe3c1cbeeb2522d44b
+  subpackages:
+  - v2
 - name: github.com/mlbright/forecast
   version: 781f7259c1b21cb70229a4f8474419900c7fe236
   subpackages:

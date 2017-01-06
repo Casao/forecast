@@ -1,7 +1,8 @@
 package: forecast
 import:
-- package: github.com/mlbright/forecast
+- package: github.com/mlbright/darksky
   subpackages:
   - v2
 - package: github.com/getlantern/systray
 - package: github.com/deckarep/gosx-notifier
+- package: github.com/everdev/mack
